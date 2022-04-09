@@ -1,7 +1,14 @@
 package Sorting;
 
 import java.util.Scanner;
-
+/*
+Worst TC = O(N^2) : when array is in reverse order
+Best TC = O(N) : when array is already sorted
+Auxiliary Space = O(1)
+Boundary Case : Bubble sort takes O(K) time when array is already sorted
+Sorting in place = YES
+Stable = YES
+*/
 public class BubbleSort {
     // method for swapping elements
     public static void swap(int[] array, int i, int j){
