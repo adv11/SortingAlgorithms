@@ -5,3 +5,4 @@ This repository contains Java implementation of all the sorting algorithms. I ha
 1) Bubble Sort
 2) Insertion Sort
 3) Selection Sort
+4) Quick Sort
